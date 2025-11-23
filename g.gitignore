@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+
+# Ignore temporary files created by VS Code or Java runner
+tempCodeRunnerFile.java
+
+# Ignore JAR files
+*.jar
+
+# Ignore IntelliJ / Eclipse / VSCode project files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
