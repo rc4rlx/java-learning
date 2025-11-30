@@ -1,0 +1,23 @@
+Are all false values grouped together?
+
+Meaning all false values appear in one block, not scattered.
+
+Example 1 (yes):
+
+[true, true, false, false, true, true]
+
+
+Example 2 (no):
+
+[true, false, true, false]
+
+
+Your array:
+
+[true, false, false, false, true]
+
+
+Question:
+Are all the false values in one block?
+
+my answer in main file
