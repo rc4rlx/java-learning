@@ -1,0 +1,16 @@
+Is the array “alternating”?
+
+Alternating means:
+true, false, true, false
+or
+false, true, false, true
+
+Given:
+
+[true, false, true, false, true]
+
+
+Question:
+Is it alternating?
+
+my answer in main file
