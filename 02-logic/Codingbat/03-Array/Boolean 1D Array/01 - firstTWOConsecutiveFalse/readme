@@ -1,0 +1,11 @@
+Find the first two consecutive false values
+
+Given:
+
+[true, false, false, true, false]
+
+
+Question:
+At what index do the first two consecutive false values start?
+
+My answer in main file
