@@ -1,0 +1,17 @@
+Find the longest streak of true values
+
+Given:
+
+[true, true, false, true, true, true, false]
+
+
+Question:
+What is the length of the longest continuous true segment?
+
+Example:
+true, true → length 2
+true, true, true → length 3
+
+So answer = 3
+
+my answer in main file
