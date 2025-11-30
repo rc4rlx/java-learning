@@ -1,0 +1,12 @@
+Does the grid contain a 2×2 BLOCK of all true?
+
+A 2×2 block looks like:
+
+true  true
+true  true
+
+
+Question:
+Is there ANY 2×2 true block anywhere in the grid?
+
+my answer in main file
