@@ -1,0 +1,16 @@
+Count how many true values are in the BORDER of the grid
+
+Border means:
+
+first row
+
+last row
+
+first column
+
+last column
+
+Question:
+How many true values are in the border?
+
+my answer in main file
