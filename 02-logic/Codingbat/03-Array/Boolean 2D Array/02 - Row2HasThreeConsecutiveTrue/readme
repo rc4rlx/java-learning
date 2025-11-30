@@ -1,0 +1,13 @@
+Does row 2 contain EXACTLY 3 consecutive true values?
+
+Row 2 is:
+
+{true, true, true, false}
+
+
+Question:
+Does it contain exactly 3 consecutive true values?
+
+(Meaning: pattern like true, true, true but not 4)
+
+my answer in mainfile
