@@ -1,0 +1,13 @@
+Count how many times a true is immediately followed by a false
+
+Example array:
+
+[true, false, true, true, false, false]
+
+
+Question:
+How many true → false pairs exist?
+
+
+my answer in main file
+
