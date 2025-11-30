@@ -1,0 +1,20 @@
+Find the first cell (row, col) where:
+
+value is false
+
+but both its vertical neighbors are true
+
+Example pattern:
+
+true
+false   ← this one
+true
+
+
+Check only cells that have valid top & bottom neighbors
+(rows 1 and 2 only).
+
+Question:
+Which (row, col) matches this?
+
+my answer in main file
