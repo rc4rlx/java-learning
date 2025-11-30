@@ -1,0 +1,19 @@
+Count how many times a cell has BOTH:
+
+.value == true
+
+AND its right neighbor is also true
+
+For example:
+
+true  true
+ ^     ^
+ pair
+
+
+Check all valid (row, col) except the last column.
+
+Question:
+How many true-right-true pairs exist?
+
+my answer in main file
