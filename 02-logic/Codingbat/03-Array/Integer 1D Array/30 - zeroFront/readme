@@ -1,0 +1,18 @@
+Array-2 > zeroFront
+
+
+Return an array that contains the exact same numbers as the given array, 
+but rearranged so that all the zeros are grouped at the start of the array. 
+The order of the non-zero numbers does not matter. So {1, 0, 0, 1} becomes {0 ,0, 1, 1}. 
+You may modify and return the given array or make a new array.
+
+
+zeroFront([1, 0, 0, 1]) → [0, 0, 1, 1]
+zeroFront([0, 1, 1, 0, 1]) → [0, 0, 1, 1, 1]
+zeroFront([1, 0]) → [0, 1]
+
+hey theree, i was absent since dec 3rd to dec7th cause i was so busy in our program presentation, its about dijkstra shortest path and now im back, i speedrun array1 and array2 03-30 today, yeah but not totally speedrun, some problem took me 1hr to answer it and some is few mins only..
+
+soo heres my explanation for this problem when i was solving the problem it came to my mind the auto sort but i only watched them visually on yt 
+so i think how to apply it and this logic took me 30 mins and i was able to answer it 
+but chatgpt said its overkilled but still i was able to solve it even if this is not the optimize answer fk it im still pushing this on github, big progress...lets go🔥
