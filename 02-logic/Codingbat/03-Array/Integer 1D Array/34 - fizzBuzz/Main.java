@@ -21,7 +21,7 @@ public class Main {
 
         String word = "FizzBuzz";
 
-        if (threefive) word = word.substring(0, 4);
+        if (three && !five) word = word.substring(0, 4);
         if (five && !threefive) word = word.substring(4);
         if (!three && !five) word = String.valueOf(start);
 
