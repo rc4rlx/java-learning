@@ -1,0 +1,19 @@
+Array3 > maxSpan
+
+
+Consider the leftmost and righmost appearances of some value in an array. 
+Well say that the "span" is the number of elements between the two inclusive. 
+A single value has a span of 1. Returns the largest span found in the given array. (Efficiency is not a priority.)
+
+
+maxSpan([1, 2, 1, 1, 3]) → 4
+maxSpan([1, 4, 2, 1, 4, 1, 4]) → 6
+maxSpan([1, 4, 2, 1, 4, 4, 4]) → 6
+
+
+
+My approach is first i wrote it visually, like every nums[i] i need to check if that value exist in the last part of the arrays so i used  int x = nums.length- 1; and there will be a loop decreasing x one by one until it hits the pair
+and then it will count the spann including the first and the last part so what i did is used a for loop first but then i figure it out that there is a formula to compute the span between nums[i] and nums[x]  and its the int count = x + 1 - i;
+and yeah, chatgpt said my code is 0(n^2) and the 0(n) uses hashmap which is i dont know yet because i havent study it so my approach is goood and yeah good day
+
+i was able to only do one logic today cause i was studying binary tree for our exam in friday and then i think by sunday i might be able to start learning hash tables and then move to algorithmic complexity, and my goal this christmas break is to study dsa 
